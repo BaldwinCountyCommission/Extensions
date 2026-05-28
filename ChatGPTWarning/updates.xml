@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="kdcfkmgifdamghiabfhblohdgefgjmlc">
     <updatecheck
-      codebase="https://github.com/BaldwinCountyCommission/Extensions/raw/refs/heads/main/ChatGPTWarning/site-warning-extension.crx"
+      codebase="https://raw.githubusercontent.com/BaldwinCountyCommission/Extensions/main/ChatGPTWarning/site-warning-extension.crx"
       version="1.0" />
   </app>
-  </gupdate>
+</gupdate>
