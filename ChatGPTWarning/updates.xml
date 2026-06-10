@@ -3,6 +3,6 @@
   <app appid="kmnaaicmfhjcofmpmefbnnglajmnppah">
     <updatecheck
       codebase="https://raw.githubusercontent.com/BaldwinCountyCommission/Extensions/main/ChatGPTWarning/site-warning-extension.crx"
-      version="1.6.3.4" />
+      version="1.7.1" />
   </app>
 </gupdate>
